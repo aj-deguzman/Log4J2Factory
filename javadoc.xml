@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="C:\Users\adeguzman\.m2\repository\org\json\json\20160810\json-20160810.jar;C:\Users\adeguzman\.m2\repository\org\apache\logging\log4j\log4j-core\2.12.1\log4j-core-2.12.1.jar;C:\Users\adeguzman\.m2\repository\org\apache\logging\log4j\log4j-api\2.12.1\log4j-api-2.12.1.jar;C:\Users\adeguzman\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\adeguzman\.p2\pool\plugins\org.hamcrest.core_1.3.0.v20180420-1519.jar;target/test-classes;C:\Users\adeguzman\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\adeguzman\.p2\pool\plugins\org.junit_4.12.0.v201504281640\junit.jar" destdir="S:\SoftwareDevelopment\JARs\JARJavadocs\Log4J2Factory" doctitle="Log4J2Factory API" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" source="1.8" sourcefiles="src/main/java/com/wheelhousecu/log4j2/Log4J2Params.java,src/main/java/com/wheelhousecu/log4j2/Log4J2Factory.java" sourcepath="src/main/resources;src/test/java;src/main/java;src/test/resources" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
